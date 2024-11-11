@@ -5,7 +5,7 @@ import streamlit as st
 people = ['Anh Đông', 'Phương', 'Tuấn', 'Sơn', 'Việt', 'Định']
 
 # Tiêu đề cho ứng dụng
-st.title('Chia ngẫu nhiên 6 người thành 3 cặp')
+st.title('Đội PickleBall Hà Đông - Chia cặp thi đấu')
 
 # Nút nhấn để chia cặp
 if st.button('Chia cặp'):

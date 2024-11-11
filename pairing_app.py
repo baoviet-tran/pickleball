@@ -2,7 +2,7 @@ import random
 import streamlit as st
 
 # Danh sách 6 người
-people = ['Person 1', 'Person 2', 'Person 3', 'Person 4', 'Person 5', 'Person 6']
+people = ['Anh Đông', 'Phương', 'Tuấn', 'Sơn', 'Việt', 'Định']
 
 # Tiêu đề cho ứng dụng
 st.title('Chia ngẫu nhiên 6 người thành 3 cặp')
